@@ -1,1 +1,4 @@
-Hola, es un archivo de prueba.
+Hola, es un archivo de prueba. Para conectar Visual Code con GitHub
+Tienes que crear el repositorio y la carpeta igual
+Ingresa a Visual Code dale clic a la cosita con tres bolitas y open new folder y te dará a conectar 
+luego de eso, le das click en yes y commit
